@@ -1,4 +1,4 @@
-#Exemplo 1:
+#Exemplo 1: Abrangência de listas
 lista = [1, 2, 3, 4, 5]
 quadrados = [item ** 2 for item in lista] #eleva ao quadrado a lista
 print(quadrados)
