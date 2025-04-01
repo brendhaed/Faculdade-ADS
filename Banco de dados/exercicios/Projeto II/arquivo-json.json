@@ -1,0 +1,32 @@
+[
+    {
+        "cod_construtora": 10,
+        "construtora": "Construtora Alfa S.A.",
+        "nome_obra": "Condomínio dos Lagos",
+        "nome_funcionario": "José Chaves"
+    },
+    {
+        "cod_construtora": 10,
+        "construtora": "Construtora Alfa S.A.",
+        "nome_obra": "Condomínio dos Lagos",
+        "nome_funcionario": "Pedro Passos"
+    },
+    {
+        "cod_construtora": 10,
+        "construtora": "Construtora Alfa S.A.",
+        "nome_obra": "Condomínio dos Lagos",
+        "nome_funcionario": "Maria Aparecida"
+    },
+    {
+        "cod_construtora": 10,
+        "construtora": "Construtora Alfa S.A.",
+        "nome_obra": "Condomínio Araras",
+        "nome_funcionario": "Carlos Dutra"
+    },
+    {
+        "cod_construtora": 10,
+        "construtora": "Construtora Alfa S.A.",
+        "nome_obra": "Condomínio Araras",
+        "nome_funcionario": "Mário Pires"
+    }
+]
